@@ -1,2 +1,2 @@
 # FPGA
-Arquivos de FPGAse CPLDs
+Arquivos de FPGAs e CPLDs

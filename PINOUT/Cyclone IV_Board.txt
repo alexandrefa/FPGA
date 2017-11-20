@@ -1,6 +1,7 @@
 Pinout da placa de desenvolvimento de FPGA Cyclone IV publicado no
 link https://www.embarcados.com.br/placa-de-fpga-com-cyclone-iv
 
+EP4CE6E22C8 // EPCS16
 
 Função		Pino
 
